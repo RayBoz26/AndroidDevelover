@@ -1,0 +1,12 @@
+com.example.android.hellosharedprefs.app-support-compat-27.1.1-0 C:\Users\USER\.gradle\caches\transforms-3\7619c4331694baed7f5563e8fc859315\transformed\support-compat-27.1.1\res
+com.example.android.hellosharedprefs.app-support-core-ui-27.1.1-1 C:\Users\USER\.gradle\caches\transforms-3\87772db3747964375e8d0c5634951811\transformed\support-core-ui-27.1.1\res
+com.example.android.hellosharedprefs.app-appcompat-v7-27.1.1-2 C:\Users\USER\.gradle\caches\transforms-3\be260a5177a13e2611c6f163753923a4\transformed\appcompat-v7-27.1.1\res
+com.example.android.hellosharedprefs.app-constraint-layout-1.1.2-3 C:\Users\USER\.gradle\caches\transforms-3\fac77f0627d70327c560889d4c0a7b30\transformed\constraint-layout-1.1.2\res
+com.example.android.hellosharedprefs.app-pngs-4 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\build\generated\res\pngs\debug
+com.example.android.hellosharedprefs.app-resValues-5 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\build\generated\res\resValues\debug
+com.example.android.hellosharedprefs.app-rs-6 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\build\generated\res\rs\debug
+com.example.android.hellosharedprefs.app-mergeDebugResources-7 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.hellosharedprefs.app-mergeDebugResources-8 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.hellosharedprefs.app-merged_res-9 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\build\intermediates\merged_res\debug
+com.example.android.hellosharedprefs.app-debug-10 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\debug\res
+com.example.android.hellosharedprefs.app-main-11 D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\res

@@ -1,0 +1,4 @@
+#Sun Jan 08 23:18:29 SGT 2023
+base.0=D\:\\KULIAH\\Semester 5\\Pemrograman Android (Java)\\DroidCafeWithSettingsChallenge\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\be260a5177a13e2611c6f163753923a4\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-3\fac77f0627d70327c560889d4c0a7b30\transformed\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\71efdd4636dff16eb5dfc184fcef2f30\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\1f01960358f2e9f61ea138ff1cfcf691\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\87772db3747964375e8d0c5634951811\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\3edb01b5181a4a14e629a00a141ded72\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\ffcc404eaabe635f6c9024305249baed\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\7619c4331694baed7f5563e8fc859315\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\2b31810cea8ccc433c4218c7c1278dbb\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\9c1c31b6cd86e53008a07290fed89605\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\7732746e1b36484b948bce59c2942287\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\45eeaba27af4adc2f6657ffc3f95cc0a\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:3:11-57
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-3\fac77f0627d70327c560889d4c0a7b30\transformed\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-3\fac77f0627d70327c560889d4c0a7b30\transformed\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\be260a5177a13e2611c6f163753923a4\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\be260a5177a13e2611c6f163753923a4\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-3\fac77f0627d70327c560889d4c0a7b30\transformed\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-3\fac77f0627d70327c560889d4c0a7b30\transformed\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\71efdd4636dff16eb5dfc184fcef2f30\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\71efdd4636dff16eb5dfc184fcef2f30\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\1f01960358f2e9f61ea138ff1cfcf691\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\1f01960358f2e9f61ea138ff1cfcf691\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\87772db3747964375e8d0c5634951811\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\87772db3747964375e8d0c5634951811\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\3edb01b5181a4a14e629a00a141ded72\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\3edb01b5181a4a14e629a00a141ded72\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\ffcc404eaabe635f6c9024305249baed\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\ffcc404eaabe635f6c9024305249baed\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\7619c4331694baed7f5563e8fc859315\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-3\7619c4331694baed7f5563e8fc859315\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\2b31810cea8ccc433c4218c7c1278dbb\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\2b31810cea8ccc433c4218c7c1278dbb\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\9c1c31b6cd86e53008a07290fed89605\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\9c1c31b6cd86e53008a07290fed89605\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\7732746e1b36484b948bce59c2942287\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\7732746e1b36484b948bce59c2942287\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\45eeaba27af4adc2f6657ffc3f95cc0a\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\45eeaba27af4adc2f6657ffc3f95cc0a\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\KULIAH\Semester 5\Pemrograman Android (Java)\HelloSharedPrefs\app\src\main\AndroidManifest.xml
